@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Virtual Environments 
+cloud1/
+pipeline_a_vision_proxy/cloud1/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
